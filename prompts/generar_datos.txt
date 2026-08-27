@@ -1,0 +1,8 @@
+#Por si quisieramos utilizar una base de datos aleatoria
+Genera un conjunto de datos sintético en formato CSV.
+La temática del conjunto de datos debe ser sobre: [PERSONALIZA AQUÍ LA TEMÁTICA, EJEMPLO: Ventas de una cafetería gourmet especializada].
+el conjunto de datos  debe cumplir con las siguientes directrices:
+1. Generar exactamente [150] filas de datos aleatorios pero realistas.
+2. Contener obligatoriamente las siguientes columnas categoricas, numericas, de fecha y boolenas
+3. Genera los datos separados por comas
+4. Revisa que los datos sean consistentes y armoniosos

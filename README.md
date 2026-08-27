@@ -18,14 +18,3 @@ El proyecto está construido sobre un stack moderno y eficiente, ideal para el a
 *   **🐼 Pandas:** Herramienta fundamental para la limpieza, manipulación y estructuración de las bases de datos.
 
 ---
-
-## ⚙️ Instrucciones de Instalación Local
-
-Sigue estos pasos para configurar el proyecto y ejecutar la aplicación en tu propio entorno (utilizando herramientas como Bash o PowerShell) en cuestión de minutos.
-
-### 1. Clonar el repositorio
-Abre tu terminal y descarga el código fuente utilizando Git:
-
-```bash
-git clone [https://github.com/guerrero365/vehicles-market-dashboard.git](https://github.com/guerrero365/vehicles-market-dashboard.git)
-cd vehicles-market-dashboard

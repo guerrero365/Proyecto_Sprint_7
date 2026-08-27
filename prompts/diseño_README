@@ -1,0 +1,7 @@
+Actúa como un redactor técnico y especialista en marcas de portafolios de datos. Genera  un archivo README.md espectacular en español para mi proyecto en GitHub y listo para descargar.
+El proyecto es una aplicación web interactiva que analiza  [PERSONALIZA AQUÍ CON TU TEMÁTICA, EJEMPLO: Cafetería Gourmet] usando Python, Streamlit y gráficos interactivos con Plotly Express.
+El README debe incluir las siguientes secciones con emojis llamativos:
+1. Título del proyecto y descripción introductoria.
+3. Instrucciones paso a paso para la instalación en local (clonación del repositorio, instalación de dependencias en requirements.txt y comando de inicio streamlit run).
+4. Sección indicando la tecnología utilizada.
+El tono debe ser motivador y profesional. Utiliza formato markdown enriquecido (listas ordenadas, bloques de código, negritas y citas).

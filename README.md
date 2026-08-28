@@ -18,3 +18,4 @@ El proyecto está construido sobre un stack moderno y eficiente, ideal para el a
 *   **🐼 Pandas:** Herramienta fundamental para la limpieza, manipulación y estructuración de las bases de datos.
 
 ---
+Para visitar la app puedes ir al siguiente enlace https://proyecto-sprint-7-9inf.onrender.com/
